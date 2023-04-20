@@ -15,7 +15,8 @@ Ce depôt accompagne l'animation d'une formation à l'utilisation de Redmine
 - [Tutoriels videos du CNRS](https://mapi.cnrs.fr/event/presentation-outil-redmine-et-tutoriel/)
 - [Tutoriel d'utilsiation](https://fre.myservername.com/redmine-tutorial-how-use-redmine-project-management)
 - [Configuration des depôts sur le serveur de Redmine](https://www.redmine.org/projects/redmine/wiki/RedmineRepositories)
-- [Appel API pour MAJ des demandes suites à commit)(https://www.redmine.org/projects/redmine/wiki/HowTo_setup_automatic_refresh_of_repositories_in_Redmine_on_commit)
+- [Appel API pour MAJ des demandes suites à commit](https://www.redmine.org/projects/redmine/wiki/HowTo_setup_automatic_refresh_of_repositories_in_Redmine_on_commit)
+- [MAJ des demandes depuis messages de commit](https://www.redmine.org/projects/redmine/wiki/RedmineSettings#Referencing-issues-in-commit-messages) 
 
 ## Plugins
 
